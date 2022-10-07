@@ -1,10 +1,6 @@
 # yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json
-site_name: MkDocs Material Template
-site_description: Template for MkDocs Material
-site_author: Daniel A. A. Pelsmaeker
-
-repo_url: https://github.com/Virtlink/mkdocs-material-template
-edit_uri: https://github.com/Virtlink/mkdocs-material-template/edit/main/docs
+site_name: MyStudyPlanning Documentation
+site_description: MyStudyPlanning Documentation
 
 theme:
   name: material
